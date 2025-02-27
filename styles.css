@@ -1,0 +1,58 @@
+.attribution { 
+    font-size: 10px;    
+    position: fixed;
+    bottom: 5px;
+    right: 10px;    
+    color: hsl(0, 0%, 100%);  
+    
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: sans-serif;
+    
+}
+
+#myBody{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%);
+}
+
+p{
+    font-size: 14px;
+}
+
+button{
+    background-color: hsl(0, 0%, 20%);
+    width: 80%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;  
+    border: 1px;  
+}
+
+a{
+    color: hsl(0, 0%, 100%);
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.location{
+    color: hsl(75, 94%, 57%);
+    margin-top: 1px;
+}
+
+#name{
+    font-size: 25px;
+    margin-bottom: 1px;
+    color: hsl(0, 0%, 100%);
+}
